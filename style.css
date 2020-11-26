@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(19, 18, 18);
+    color: white;
+}
+#navrow{
+    height:50px;
+    width:100%;
+}
+#div2{
+    height: 40px;
+    width: 100%;
+    margin-left: ;
+    background-color: rgb(145, 139, 145);
+    margin-top: 20px;
+}
+#div2 ul{
+        list-style: none;
+        float: left;
+        width: 100%;
+}
+#div2 ul li{
+    display: inline;
+    width: 25%;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: ghostwhite;
+    margin-left:30%;
+    text-align: center;
+}
+a:hover{
+    text-decoration: none;
+    font-size: 20px;
+    color: ghostwhite;
+    margin-left:30%;
+    text-align: center;
+    background-color:;
+}
+#colmenu:hover{
+    background-color: rgb(78, 78, 78);
+}
+#divbg{
+    height:600px;
+    width: 100%;
+    background-image: url('https://th.bing.com/th/id/OIP.XL96uJN_HV7PlWaKlDYcAwHaDV?pid=Api&rs=1');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+input {
+    width: 70%;
+    height: 40px;
+    border-radius: 25px;
+    background-color: rgba(238, 239, 245, 0.87);
+    text-align: center;
+    margin-top:70px;
+}
+.firstul{
+    list-style: none;
+}
+.firstul li{
+    display: inline-block;
+    height: 40px;
+    border: 1px solid yellow;
+    background-color: rgb(34, 32, 32);
+    padding: 5px;
+
+}
+.secondul{
+    list-style: none;
+    float: right;
+    margin-top: 30px;
+}
+.secondul li{
+    height: 60px;
+    width: 70px;
+    border: 1px solid yellow;
+    background-color: rgba(34, 32, 32, 0.397);
+
+    padding: 5px;
+}
